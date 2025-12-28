@@ -1,4 +1,5 @@
 # Amour Swipe  
+**Amour Swipe** là ứng dụng di động hẹn hò hiện đại, giúp người dùng tìm kiếm mối quan hệ ý nghĩa thông qua cơ chế **vuốt để ghép đôi** (swipe-to-match) quen thuộc, kết hợp với **tư vấn tình cảm thông minh** từ **LOVE AI**. Ứng dụng mang đến trải nghiệm kết nối an toàn, hiệu quả và thân thiện.
 **Ứng dụng hẹn hò thông minh với cơ chế vuốt match và tư vấn AI**
 
 <p align="center">
