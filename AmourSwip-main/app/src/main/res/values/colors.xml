@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_light">#F06292</color>
+    <color name="purple_light">#AB47BC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="red">#FF0000</color>
+    <color name="signup_button">#F0C3F4</color>
+    <color name="login_button">#B73CFE</color>
+    <color name="purple_blur">#7371FC</color>
+    <color name="purple_500">#9C27B0</color> <!-- Ví dụ màu có sẵn -->
+    <color name="black">#FF000000</color>
+    <color name="selected_button_stroke_color">#C87DD7</color>
+    <color name="next_button_color">#C87DD7</color> <!-- Màu nút Tiếp -->
+    <color name="custom_red">#FF0000</color> <!-- Màu đỏ đậm -->
+    <color name="custom_green">#00FF00</color> <!-- Màu xanh lá sáng -->
+</resources>

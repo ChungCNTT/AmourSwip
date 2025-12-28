@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_main">
+
+    <!-- Container để chứa các trái tim động -->
+    <RelativeLayout
+        android:id="@+id/heart_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/tvSlogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        android:fontFamily="@font/dancing"
+        android:text="@string/find_your_love"
+        android:textColor="@android:color/black"
+        android:textSize="25sp" />
+
+    <!-- Nút Đăng ký -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSignUp"
+        android:layout_width="300dp"
+        android:layout_height="56dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        android:backgroundTint="#F5E9F2"
+        android:elevation="4dp"
+        android:fontFamily="@font/poppins_bold"
+        android:paddingHorizontal="35dp"
+        android:paddingVertical="12dp"
+        android:text="@string/sign_up"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:visibility="invisible"
+        app:cornerRadius="50dp" />
+
+    <!-- Nút Đăng nhập -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnLogin"
+        android:layout_width="300dp"
+        android:layout_height="56dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="420dp"
+        android:backgroundTint="#C87DD7"
+        android:elevation="4dp"
+        android:fontFamily="@font/poppins_bold"
+        android:paddingHorizontal="35dp"
+        android:paddingVertical="12dp"
+        android:text="@string/sign_in"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:visibility="invisible"
+        app:cornerRadius="50dp" />
+
+</RelativeLayout>
